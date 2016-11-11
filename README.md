@@ -3,6 +3,8 @@
 - Python and Fortran90 implementations for *Winding number algorithm*
 - Results and usage is summarized in [Jupyter Notebook (WindingNumber/WindingNumber.ipynb)](https://github.com/rokuwaki/WindingNumber/blob/master/WindingNumber.ipynb).
 
+![](https://github.com/rokuwaki/WindingNumber/raw/master/work/WindingNumberPython.png)
+
 ## Dependencies
 - Python 3.5.1
 - numpy (1.11.2)
