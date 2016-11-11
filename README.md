@@ -1,7 +1,7 @@
 # WindingNumber
 
 - Python and Fortran90 implementations for *Winding number algorithm*
-- Results and usage is summarized in [Jupyter Notebook (WindingNumber/WindingNumber.ipynb)](https://github.com/rokuwaki/WindingNumber/blob/master/WindingNumber.ipynb).
+- Results and usage are summarized in [Jupyter Notebook (WindingNumber/WindingNumber.ipynb)](https://github.com/rokuwaki/WindingNumber/blob/master/WindingNumber.ipynb).
 
 ![](https://github.com/rokuwaki/WindingNumber/raw/master/work/WindingNumberPython.png)
 
